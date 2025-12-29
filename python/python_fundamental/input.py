@@ -3,7 +3,7 @@
 #syntax = varname = input("")
 #inside (" what input you want from user write that for better looking code")
 
-#vn = input(always string) you have to convert if you want perform any operation.
+#var_name= input(always string) you have to convert if you want perform any operation.
 
 # two types of convertion method for input function 
 

@@ -5,6 +5,6 @@
 # \\ : backslash
 # \" : double quote
 # \' : single quote
-print("hello my name anand \n my age is 18")
+print("hello my name anand \nmy age is 18")
 print("hyy this is tab \tcharacter ")
 
