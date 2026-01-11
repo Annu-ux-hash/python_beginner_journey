@@ -98,6 +98,33 @@ match day:
 
 #Q8
 
-star ="*"
-for i in range(1,5):
-    print("*"* i)
+# star ="*"
+# for i in range(1,5):
+#     print("*"* i)
+
+# while loop
+
+# #Q9
+# a = 1
+# while a<11:
+#     print(a)
+#     a+=1
+
+
+#Q10
+# a = 12345678
+# u = int(input("password"))
+# while u<=8:
+#     print("coorect")
+#
+
+#Q11 reverse 123 => 321
+
+
+#Q12
+
+for a in range(1,6):
+    print("Hello")
+
+
+
